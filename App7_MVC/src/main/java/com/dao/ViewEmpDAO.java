@@ -9,7 +9,6 @@ import com.bean.EmployeeBean;
 
 public class ViewEmpDAO 
 {
-
 	ArrayList<EmployeeBean> al = new ArrayList<EmployeeBean>();
 	
 	public ArrayList<EmployeeBean> reterive_empdata()
